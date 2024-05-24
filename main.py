@@ -6,7 +6,7 @@ from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 logging.basicConfig(level=logging.INFO)
 
 # Токен вашего бота
-API_TOKEN = '7165593353:AAG6ABV5zxA1fwnkWPJ2cDEaIq_7YVyeVC8'
+API_TOKEN = ''
 
 # Создание объектов бота и диспетчера
 bot = Bot(token=API_TOKEN)
