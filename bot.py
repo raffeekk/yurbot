@@ -5,7 +5,7 @@ from aiogram.utils import executor
 import sqlite3
 import fitz  # PyMuPDF
 
-API_TOKEN = '6776444338:AAFAO-AlQYiO0Ub1SVgMljrB9vMfzyVU99w'
+API_TOKEN = 'token'
 
 logging.basicConfig(level=logging.INFO)
 
