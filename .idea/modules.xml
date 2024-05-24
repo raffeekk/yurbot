@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/.idea/yurbot.iml" filepath="$PROJECT_DIR$/.idea/yurbot.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/Kolya_bot.iml" filepath="$PROJECT_DIR$/.idea/Kolya_bot.iml" />
+>>>>>>> 3b9646a0d1f0d8159d3b2ebe3c21e4a66550b3bf
+    </modules>
+  </component>
+</project>
