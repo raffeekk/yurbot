@@ -5,7 +5,7 @@
 # from aiogram.utils import executor
 # import PyPDF2
 #
-# API_TOKEN = '7043328623:AAEgtL4GHG2fYJ8GUii4f8VZUb5BLtBcmX8'
+# API_TOKEN = 'token'
 #
 # # Включение ведения журнала
 # logging.basicConfig(level=logging.INFO)
@@ -142,7 +142,7 @@ from aiogram.dispatcher.filters.state import State, StatesGroup
 from aiogram.contrib.fsm_storage.memory import MemoryStorage
 from PyPDF2 import PdfReader
 
-API_TOKEN = '7043328623:AAEgtL4GHG2fYJ8GUii4f8VZUb5BLtBcmX8'
+API_TOKEN = 'token'
 
 # Включение ведения журнала
 logging.basicConfig(level=logging.INFO)
